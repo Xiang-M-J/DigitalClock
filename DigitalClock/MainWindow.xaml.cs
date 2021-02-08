@@ -36,7 +36,7 @@ namespace DigitalClock
             InitializeComponent();
             for (int i = 0; i < 6; i++)
             {
-                digitLine[i] = new DigitLine(new SolidColorBrush(Color.FromArgb(240, 70 ,130 ,180)));
+                digitLine[i] = new DigitLine(new SolidColorBrush(Color.FromArgb(240, 0 ,100 ,180)));
                 digitLineBack[i] = new DigitLine(new SolidColorBrush(Color.FromArgb(120, 240, 248 ,255)));
             }
 
