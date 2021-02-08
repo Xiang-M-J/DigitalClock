@@ -26,7 +26,7 @@ private void timer_Elapsed(object sender, System.Timers.ElapsedEventArgs e)  // 
 
 <br/>
 
-如果想要其他颜色风格的颜色时钟，可以将相对应的rgb值发到我的邮箱** (3291493948@qq.com) **内  
+如果想要其他颜色风格的颜色时钟，可以将相对应的rgb值发到我的邮箱(**3291493948@qq.com**)内  
 由于个人能力有限目前只能更改
 1. 数字显示时的颜色
 2. 数字不显示时的颜色
